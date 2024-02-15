@@ -2,3 +2,5 @@
 
 
 - Estado del proyecto
+para ejecutar el sistema debes poner:
+'''npm install react'''
